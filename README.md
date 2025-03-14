@@ -3,29 +3,26 @@
 ## Register Number:24006523
 ## Name:HARISH G
 ## Problem Title
-E-Waste Facility Locator
+Smart Irrigation System for Precision Farming
 ## Problem Description
-Website that tells you the location of the nearest e-waste collection and recycling facility. Offers educational
-pop-ups on the harmful components of your e-waste and their effects on the environment and human health
-if not disposed correctly. There could be an option to input the model of your old device and earn credit
-points relative to the amount of precious metals recovered from the device if disposed correctly.
+Background: Water scarcity is a major challenge in agriculture, leading to inefficient water use and reduced crop yields. Traditional irrigation methods often result in overuse or underuse of water. Description: Develop a smart irrigation system that utilizes sensors and IoT technology to monitor soil moisture levels and weather conditions. This system will provide real-time data to farmers, enabling them to make informed decisions on irrigation scheduling, thus optimizing water usage and enhancing crop yield. Expected Solution: A smart irrigation module integrated with moisture sensors and a mobile application to provide farmers with timely irrigation alerts and recommendations based on real-time data.
 
 
 ## Problem Creater's Organization
-Ministry of Defence
+Ministry of Agriculture and Farmers Welfare
 
 ## Idea
-DIY E-Waste Upcycling Projects: Promote DIY upcycling projects where old electronic components are
-repurposed into new and creative items. This can include artwork, furniture, or fashion accessories made from
-recycled circuit boards, wires, and other electronic parts.
+For smart irrigation in precision farming in Kuthambakkam, Tamil Nadu, consider using IoT-based systems with soil moisture sensors, weather data integration, and AI-driven irrigation scheduling to optimize water usage and crop health. 
 
 
 ## Proposed Solution / Architecture Diagram
 
-![image](https://github.com/user-attachments/assets/241a11a0-3bed-4359-b11a-8fb942d3e027)
+![Architecture-diagram-of-Smart-Irrigation-System-for-Precision-Agriculture-and-Farming](https://github.com/user-attachments/assets/4aa2e80a-908f-41cd-a349-c8a2b8b551de)
+
 
 ## Use Cases
-![image](https://github.com/user-attachments/assets/fefe58ac-5d71-45ac-a006-561a1fb9d545)
+![Functional-view-support-use-cases](https://github.com/user-attachments/assets/e88a55ab-1d40-4c5e-9083-b52b47e6cb38)
+
 
 ## Releases
 No releases published
